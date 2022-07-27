@@ -39,21 +39,21 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
  - [X] **01**: HTML & CSS - Estruturas de página
  - [X] **02**: HTML & CSS - Primeiros passos em CSS
  - [X] **03**: HTML & CSS - Seletores e posicionamento
- - [ ] **04**: HTML Semântico
- - [ ] **05**: Projeto - Lessons Learned
+ - [X] **04**: HTML Semântico
+ - [X] **05**: Projeto - Lessons Learned
 
 **Bloco 04: Introdução à JavaScript e Lógica de Programação**
 
- - [ ] **01**: Introdução - JavaScript
- - [ ] **01**: JavaScript - Primeiros passos
- - [ ] **02**: JavaScript - Array e loop For
- - [ ] **03**: JavaScript - Lógica de Programação e Algoritmos
- - [ ] **04**: JavaScript - Objetos e funções
- - [ ] **05**: Projeto - Playground Functions
+ - [X] **01**: Introdução - JavaScript
+ - [X] **01**: JavaScript - Primeiros passos
+ - [X] **02**: JavaScript - Array e loop For
+ - [X] **03**: JavaScript - Lógica de Programação e Algoritmos
+ - [X] **04**: JavaScript - Objetos e funções
+ - [X] **05**: Projeto - Playground Functions
 
 ### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
- - [ ] **01**: JavaScript - DOM e seletores
+ - [X] **01**: JavaScript - DOM e seletores
  - [ ] **02**: JavaScript - Trabalhando com elementos
  - [ ] **03**: JavaScript - Eventos
  - [ ] **04**: JavaScript - Web Storage
